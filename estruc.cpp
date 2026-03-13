@@ -1,3 +1,6 @@
+//Kleber Jesus Montes Compañ
+//Ing Animacion Digital
+//ID: 00623774
 /* estructura(clase) string*/
 #include <iostream>
 #include <string>
